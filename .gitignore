@@ -7,6 +7,7 @@ config.ini
 # Distribution / packaging
 .Python
 env/
+.env/
 build/
 develop-eggs/
 dist/

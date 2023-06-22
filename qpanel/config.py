@@ -41,7 +41,7 @@ class QPanelConfig:
         # properties
         self.is_debug = self.__get_bool_value_config('general', 'debug', False)
         self.port_bind \
-            = int(self.__get_entry_ini_default('general', 'port', 5000))
+            = int(self.__get_entry_ini_default('general', 'port', 5001))
         self.host_bind \
             = self.__get_entry_ini_default('general', 'host', '0.0.0.0')
         self.base_url \
