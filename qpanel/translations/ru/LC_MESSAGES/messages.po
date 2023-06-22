@@ -314,7 +314,7 @@ msgstr "Русский"
 #: qpanel/templates/language_selector.html:7
 #: qpanel/themes/qpanel/templates/header.html:65
 msgid "Portuguese"
-msgstr "Португальский"
+msgstr "Portuguese"
 
 #: qpanel/templates/login.html:2
 msgid "Login"

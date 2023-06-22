@@ -2,6 +2,7 @@
 # Copyright (C) 2015-2022 Rodrigo Ramírez Norambuena
 # This file is distributed under the same license as the QPanel project.
 # Rodrigo Ramírez Norambuena <a@rodrigoramirez.com>, 2015-2019.
+# Marco Aurélio Paula <maurelio036@gmail.com>, 2023-2023.
 msgid ""
 msgstr ""
 "Project-Id-Version:  0.6.1\n"
@@ -125,7 +126,7 @@ msgstr "Ultima ligação"
 #: qpanel/themes/qpanel/templates/all_queues.html:102
 #: qpanel/themes/qpanel/templates/queue.html:105
 msgid "Callers"
-msgstr "Clientes"
+msgstr "Chamadores"
 
 #: qpanel/templates/all_queues.html:72 qpanel/templates/fs/queue.html:71
 #: qpanel/templates/queue.html:70
@@ -139,7 +140,7 @@ msgstr "Nome"
 #: qpanel/themes/qpanel/templates/all_queues.html:116
 #: qpanel/themes/qpanel/templates/queue.html:116
 msgid "Id Number"
-msgstr "Numero"
+msgstr "Número"
 
 #: qpanel/templates/all_queues.html:74 qpanel/templates/queue.html:72
 #: qpanel/themes/qpanel/templates/all_queues.html:119
@@ -158,13 +159,13 @@ msgstr "Espera"
 #: qpanel/themes/qpanel/templates/all_queues.html:238
 #: qpanel/themes/qpanel/templates/queue.html:248
 msgid "was"
-msgstr ""
+msgstr "era"
 
 #: qpanel/templates/all_queues.html:168 qpanel/templates/queue.html:176
 #: qpanel/themes/qpanel/templates/all_queues.html:238
 #: qpanel/themes/qpanel/templates/queue.html:248
 msgid "ago"
-msgstr ""
+msgstr "atrás"
 
 #: qpanel/templates/all_queues.html:173 qpanel/templates/queue.html:181
 #: qpanel/themes/qpanel/templates/all_queues.html:243
@@ -229,42 +230,42 @@ msgstr "Estatisticas"
 #: qpanel/templates/i18n_js.html:30
 #: qpanel/themes/qpanel/templates/i18n_js.html:30
 msgid "Logged Out"
-msgstr ""
+msgstr "Desconectado""
 
 #: qpanel/templates/i18n_js.html:32
 #: qpanel/themes/qpanel/templates/i18n_js.html:32
 msgid "Available"
-msgstr "indisponivel"
+msgstr "Disponível"
 
 #: qpanel/templates/i18n_js.html:34
 #: qpanel/themes/qpanel/templates/i18n_js.html:34
 msgid "Available (On Demand)"
-msgstr ""
+msgstr "Disponível (Sob Demanda)"
 
 #: qpanel/templates/i18n_js.html:36
 #: qpanel/themes/qpanel/templates/i18n_js.html:36
 msgid "On Break"
-msgstr ""
+msgstr "Em pausa"
 
 #: qpanel/templates/i18n_js.html:38
 #: qpanel/themes/qpanel/templates/i18n_js.html:38
 msgid "Idle"
-msgstr ""
+msgstr "Parado"
 
 #: qpanel/templates/i18n_js.html:40
 #: qpanel/themes/qpanel/templates/i18n_js.html:40
 msgid "Waiting"
-msgstr ""
+msgstr "Esperando"
 
 #: qpanel/templates/i18n_js.html:42
 #: qpanel/themes/qpanel/templates/i18n_js.html:42
 msgid "Receiving"
-msgstr ""
+msgstr "Recebendo"
 
 #: qpanel/templates/i18n_js.html:44
 #: qpanel/themes/qpanel/templates/i18n_js.html:44
 msgid "In a queue call"
-msgstr ""
+msgstr "Em uma chamada da fila"
 
 #: qpanel/templates/fs/index.html:34 qpanel/templates/index.html:23
 msgid "Queues"
@@ -306,22 +307,22 @@ msgstr ""
 #: qpanel/templates/language_selector.html:6
 #: qpanel/themes/qpanel/templates/header.html:64
 msgid "Russian"
-msgstr ""
+msgstr "Russian"
 
 #: qpanel/templates/language_selector.html:7
 #: qpanel/themes/qpanel/templates/header.html:65
 msgid "Portuguese"
-msgstr ""
+msgstr "Portuguese"
 
 #: qpanel/templates/login.html:2
 msgid "Login"
-msgstr ""
+msgstr "Conectar"
 
 #: qpanel/templates/login.html:10 qpanel/templates/login.html:19
 #: qpanel/themes/qpanel/templates/login.html:34
 #: qpanel/themes/qpanel/templates/login.html:56
 msgid "Sign in"
-msgstr ""
+msgstr "Entrar"
 
 #: qpanel/templates/login.html:12 qpanel/themes/qpanel/templates/login.html:41
 msgid "User id"
@@ -329,65 +330,65 @@ msgstr "pausado"
 
 #: qpanel/templates/login.html:14 qpanel/themes/qpanel/templates/login.html:49
 msgid "Password"
-msgstr ""
+msgstr "Senha"
 
 #: qpanel/templates/logout_button.html:2
 #: qpanel/themes/qpanel/templates/header.html:44
 msgid "Logout"
-msgstr ""
+msgstr "Sair"
 
 #: qpanel/templates/queue.html:35 qpanel/themes/qpanel/templates/queue.html:66
 msgid "Actions"
-msgstr ""
+msgstr "Ações"
 
 #: qpanel/templates/queue.html:51 qpanel/templates/queue.html:198
 #: qpanel/themes/qpanel/templates/queue.html:84
 #: qpanel/themes/qpanel/templates/queue.html:270
 msgid "Spy"
-msgstr ""
+msgstr "Espionar"
 
 #: qpanel/templates/queue.html:52 qpanel/templates/queue.html:199
 #: qpanel/themes/qpanel/templates/queue.html:85
 #: qpanel/themes/qpanel/templates/queue.html:271
 msgid "Whisper"
-msgstr ""
+msgstr "Sussurrar"
 
 #: qpanel/templates/queue.html:53 qpanel/templates/queue.html:200
 #: qpanel/themes/qpanel/templates/queue.html:86
 #: qpanel/themes/qpanel/templates/queue.html:272
 msgid "Barge"
-msgstr ""
+msgstr "Intercalar 3vias"
 
 #: qpanel/templates/queue.html:54 qpanel/templates/queue.html:201
 #: qpanel/themes/qpanel/templates/queue.html:87
 #: qpanel/themes/qpanel/templates/queue.html:273
 msgid "Remove from queue"
-msgstr ""
+msgstr "Remover da fila"
 
 #: qpanel/templates/queue.html:112
 #: qpanel/themes/qpanel/templates/queue.html:162
 msgid "Insert where  you listen the call, example: <i>SIP/1001</i>"
-msgstr ""
+msgstr "Insira onde você escuta a chamada, exemplo: <i>SIP/1001</i>"
 
 #: qpanel/templates/queue.html:116
 #: qpanel/themes/qpanel/templates/queue.html:166
 msgid "Listen "
-msgstr ""
+msgstr "Ouvir "
 
 #: qpanel/templates/queue.html:295
 #: qpanel/themes/qpanel/templates/queue.html:369
 msgid "Execute a "
-msgstr ""
+msgstr "Executar um "
 
 #: qpanel/templates/queue.html:302
 #: qpanel/themes/qpanel/templates/queue.html:378
 msgid "Insert where do need listen"
-msgstr ""
+msgstr "Insira onde precisa ouvir"
 
 #: qpanel/templates/queue.html:308
 #: qpanel/themes/qpanel/templates/queue.html:384
 msgid "Try..."
-msgstr ""
+msgstr "Tentar..."
 
 #: qpanel/templates/row_general_data.html:10 qpanel/templates/stats.html:51
 msgid "Attended calls."
@@ -427,47 +428,47 @@ msgstr "Tempo médio de espera"
 
 #: qpanel/templates/stats.html:19 qpanel/themes/qpanel/templates/stats.html:37
 msgid "From:"
-msgstr ""
+msgstr "De"
 
 #: qpanel/templates/stats.html:20 qpanel/themes/qpanel/templates/stats.html:43
 msgid "To:"
-msgstr ""
+msgstr "Para"
 
 #: qpanel/templates/stats.html:38 qpanel/themes/qpanel/templates/stats.html:116
 msgid "Inbound"
-msgstr ""
+msgstr "Entrada"
 
 #: qpanel/templates/stats.html:41
 msgid "Total incomming calls"
-msgstr ""
+msgstr "Total de chamadas recebidas"
 
 #: qpanel/templates/fs/queue.html:32
 msgid "Contact"
-msgstr ""
+msgstr "Contato"
 
 #: qpanel/templates/fs/queue.html:34
 msgid "State"
-msgstr ""
+msgstr "Estado"
 
 #: qpanel/themes/qpanel/templates/footer.html:12
 msgid "About Us"
-msgstr ""
+msgstr "About Us"
 
 #: qpanel/themes/qpanel/templates/header.html:15
 msgid "Home"
-msgstr ""
+msgstr "Home"
 
 #: qpanel/themes/qpanel/templates/header.html:57
 msgid "Language"
-msgstr ""
+msgstr "Linguagem"
 
 #: qpanel/themes/qpanel/templates/row_general_data.html:87
 #: qpanel/themes/qpanel/templates/stats.html:133
 msgid "Average time"
-msgstr ""
+msgstr "Tempo médio"
 
 #: qpanel/themes/qpanel/templates/row_general_data.html:104
 #: qpanel/themes/qpanel/templates/stats.html:150
 msgid "Average Wait"
-msgstr ""
+msgstr "Espera média"
 
